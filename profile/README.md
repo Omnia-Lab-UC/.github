@@ -1,4 +1,4 @@
-The OMNIA Lab — Omics and Multilevel Integrative Analysis Laboratory — is a computational biomedical research laboratory at Pontificia Universidad Catolica de Chile focused on the integrative analysis of multi-omics data across molecular, clinical, and cognitive levels to advance mechanistic understanding of complex disease phenotypes.
+🧬 The OMNIA Lab — Omics and Multilevel Integrative Analysis Laboratory — is a computational biomedical research laboratory at Pontificia Universidad Católica de Chile focused on the integrative analysis of multi-omics data across molecular, clinical, and cognitive levels 🧠📊 to advance mechanistic understanding of complex disease phenotypes.
 
 <!--
 
